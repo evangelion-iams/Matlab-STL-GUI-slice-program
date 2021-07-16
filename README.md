@@ -13,5 +13,9 @@ Enjoy it.
 ※ following are step-by-step illustrations via figure.  
 ```
 [url] https://drive.google.com/open?id=17UydcjT_9Vo-Cu8xZLv6wOO4D96gjMfO 
-[url] https://www.youtube.com/watch?v=L-PJxcc50V8
+
 ```
+
+<a href="https://www.youtube.com/watch?v=L-PJxcc50V8" target="_blank"><img src="http://img.youtube.com/vi/L-PJxcc50V8/0.jpg" 
+alt="Matlab STL GUI " width="240" height="180" border="10" /></a>
+
